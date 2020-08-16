@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "mocha ./test/server-test.js"
+    "test": "mocha ./test/ --exit"
   },
   "author": "",
   "license": "ISC",
